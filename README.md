@@ -1,5 +1,6 @@
 <h1 data-start="233" data-end="249">IPTV India App</h1>
 <p data-start="251" data-end="426">A simple web-based IPTV player that streams Indian TV channels using M3U playlists.<br data-start="334" data-end="337" /> This project is designed to be <strong data-start="368" data-end="425">lightweight, static, and easily deployable on Netlify</strong>.</p>
+Demo: https://iptv-india-app.netlify.app
 <h2 data-start="433" data-end="444">Features</h2>
 <ul data-start="446" data-end="618">
 <li data-start="446" data-end="469">
